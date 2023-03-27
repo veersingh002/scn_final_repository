@@ -208,3 +208,4 @@ elif choice==6:
     skewsymmetric()
 else:
     print("INVALID CHOICE !!!!!!!")
+Printf("veer bhai scm mei full marks lane hn tuje")
